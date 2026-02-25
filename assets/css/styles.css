@@ -5,3 +5,8 @@
 	border-top: 2px solid #11111111;
 	border-bottom: 2px solid #11111111;
 }
+h1 {
+	font-family: "Manufacturing Consent", system-ui;
+	font-weight: 400;
+	font-style: normal;
+}
